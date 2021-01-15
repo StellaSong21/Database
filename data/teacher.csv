@@ -1,0 +1,9 @@
+T001,tch1,123456,soft
+T001,tch2,123456,soft
+0001,tch3,123456,soft
+T002,,,
+T002,tch2,pass,comp
+T003,tch3,0000,comp
+T004,tch4,0000,drug
+T005,tch5,123456,math
+T006,tch6,123123,math
